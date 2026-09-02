@@ -11,6 +11,7 @@
 - [**cconv**](https://github.com/hogib/cconv): An image manipulation CLI tool I wrote in C.
 - [**electric-eye**](https://github.com/hogib/electric-eye): A V4L2 camera effects/recording daemon.
 - [**cnn_earthquake**](https://github.com/hogib/cnn_earthquake): A collection of neural network implementations for seismic analysis.
+- [**ssh holdem**](https://github.com/hogib/ssh-holdem): Texas Holdem in your terminal, over ssh.
 
 ## Top Languages
 
