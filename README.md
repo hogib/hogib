@@ -19,6 +19,7 @@
 2. Rust
 3. Python
 4. C++
+5. Go
 
 ## Contact
 
