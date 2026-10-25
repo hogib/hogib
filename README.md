@@ -8,6 +8,7 @@
 
 ## Examples
 
+- [**ayzek**](https://github.com/hogib/ayzek): A zippy EEW kit that implements neural networks without any ml runtime dependencies. 
 - [**cconv**](https://github.com/hogib/cconv): An image manipulation CLI tool I wrote in C.
 - [**electric-eye**](https://github.com/hogib/electric-eye): A V4L2 camera effects/recording daemon.
 - [**cnn_earthquake**](https://github.com/hogib/cnn_earthquake): A collection of neural network implementations for seismic analysis.
